@@ -1,6 +1,13 @@
-# MeanCourse
+# MEAN-Angular-Node
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+
+A simple blogging app to create, update and delete blogs. It also provide guest blogging (Any user can create a account and post his/her blog). I used angular to create front-end of this application and NodeJs for back-end of this application.
+
+To start angular app, run cmd npm start
+To start NodeJs app, run cmd npm run start:server
+
+Do not forget to start mongo db.
 
 ## Development server
 
